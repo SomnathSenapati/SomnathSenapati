@@ -1,3 +1,4 @@
+![logo](https://github.com/SomnathSenapati/SomnathSenapati/blob/main/1697046503944.png)
 <h1 align="center">Hi 👋, I'm Somnath Senapati</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
